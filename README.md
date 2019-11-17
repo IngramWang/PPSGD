@@ -1,2 +1,2 @@
 # ppsgd
-AAAI'2020 - Differentially Private Learning with Small Public Data
+Reserve for *Differentially Private Learning with Small Public Data*, which is accepted by AAAI'2020.
